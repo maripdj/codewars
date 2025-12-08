@@ -1,3 +1,4 @@
+// conta os bits
 fn count_bits(n: i64) -> u32 {
     let binary_string: String = format!("{:b}", n);
 
